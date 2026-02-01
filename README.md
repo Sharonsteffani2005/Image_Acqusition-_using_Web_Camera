@@ -136,7 +136,8 @@ cap.release()
 
 
 ### iii) Display the video by resizing the window
-<img width="603" height="688" alt="image" src="https://github.com/user-attachments/assets/b46fc6be-1911-48d2-b525-b0fba77c8762" />
+<img width="150" height="448" alt="image" src="https://github.com/user-attachments/assets/2bf89f8d-7362-4582-a97a-b677f2f71d5d" />
+
 
 
 
